@@ -1,2 +1,4 @@
 # Tontent
-Tontent, the Headless CMS you need
+Tontent, the headless CMS you need
+
+Project moved to https://gitlab.com/tontent/tontent-core
